@@ -1,11 +1,11 @@
 {
     "author": "G@mOBEP <rusmiran@gmail.com>",
-    "name": "swift.error",
-    "description": "error",
+    "name": "swift.errors",
+    "description": "errors",
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gamover/swift.error.git#master"
+        "url": "https://github.com/gamover/swift.errors.git#master"
     },
     "dependencies": {
         "swift.utils": "*"
